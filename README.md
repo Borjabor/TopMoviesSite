@@ -45,7 +45,3 @@ The project uses a SQLite database with the following schema:
 	+ `ranking`
 	+ `review`
 	+ `img_url`
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
